@@ -1,9 +1,9 @@
 # Problem statement
-  Two sum
+  Three sum
 
 # Solution
-  brute force n squared solution -- outer and innter loop
-  hashset method n * logN solution
+  No obvious brute force method since removing duplicates is complicated
+  Adopt the two pointer method instead
   
 # Lessons
 
